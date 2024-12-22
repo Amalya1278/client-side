@@ -1,0 +1,229 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "name": "Edo",
+      "surname": "Miller",
+      "age": 25,
+      "salary": "62458",
+      "programming_languages": [
+        "Swift",
+        "C#",
+        "Python",
+        "Go",
+        "C++"
+      ],
+      "posts": [
+        {
+          "id": 1,
+          "text": "Debugging can be frustrating but rewarding."
+        },
+        {
+          "id": 2,
+          "text": "Experimenting with Tailwind CSS."
+        },
+        {
+          "id": 3,
+          "text": "Learning React is fun!"
+        },
+        {
+          "id": 4,
+          "text": "Just finished a project!"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Charlie",
+      "surname": "Jones",
+      "age": 36,
+      "salary": 98325.19,
+      "programming_languages": [
+        "Java",
+        "Ruby",
+        "PHP"
+      ],
+      "posts": [
+        {
+          "id": 1,
+          "text": "Just solved a challenging bug."
+        },
+        {
+          "id": 2,
+          "text": "Debugging can be frustrating but rewarding."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "George",
+      "surname": "Jones",
+      "age": 35,
+      "salary": 94601.24,
+      "programming_languages": [
+        "PHP",
+        "C#"
+      ],
+      "posts": [
+        {
+          "id": 1,
+          "text": "Learning React is fun!"
+        },
+        {
+          "id": 2,
+          "text": "Exploring new frameworks."
+        },
+        {
+          "id": 3,
+          "text": "Experimenting with Tailwind CSS."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "George",
+      "surname": "Garcia",
+      "age": 31,
+      "salary": 62895.57,
+      "programming_languages": [
+        "PHP",
+        "Java",
+        "Swift",
+        "C++"
+      ],
+      "posts": [
+        {
+          "id": 1,
+          "text": "Just solved a challenging bug."
+        },
+        {
+          "id": 2,
+          "text": "Debugging can be frustrating but rewarding."
+        },
+        {
+          "id": 3,
+          "text": "Coding late into the night..."
+        },
+        {
+          "id": 4,
+          "text": "Practicing algorithms and data structures."
+        },
+        {
+          "id": 5,
+          "text": "Just solved a challenging bug."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "George",
+      "surname": "Brown",
+      "age": 49,
+      "salary": 119776.6,
+      "programming_languages": [
+        "TypeScript",
+        "Python",
+        "PHP",
+        "C#"
+      ],
+      "posts": [
+        {
+          "id": 1,
+          "text": "Refactoring old code feels satisfying."
+        },
+        {
+          "id": 2,
+          "text": "Exploring new frameworks."
+        },
+        {
+          "id": 3,
+          "text": "Exploring new frameworks."
+        },
+        {
+          "id": 4,
+          "text": "Learning React is fun!"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Julia",
+      "surname": "Garcia",
+      "age": 29,
+      "salary": 70624.89,
+      "programming_languages": [
+        "Swift",
+        "Go",
+        "TypeScript"
+      ],
+      "posts": [
+        {
+          "id": 1,
+          "text": "Just solved a challenging bug."
+        },
+        {
+          "id": 2,
+          "text": "Experimenting with Tailwind CSS."
+        },
+        {
+          "id": 3,
+          "text": "Exploring new frameworks."
+        },
+        {
+          "id": 4,
+          "text": "Practicing algorithms and data structures."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Julia",
+      "surname": "Martinez",
+      "age": 21,
+      "salary": 110936.76,
+      "programming_languages": [
+        "C#",
+        "Java",
+        "Go",
+        "Swift",
+        "PHP"
+      ],
+      "posts": [
+        {
+          "id": 1,
+          "text": "Experimenting with Tailwind CSS."
+        },
+        {
+          "id": 2,
+          "text": "Just solved a challenging bug."
+        },
+        {
+          "id": 3,
+          "text": "Just solved a challenging bug."
+        },
+        {
+          "id": 4,
+          "text": "Learning React is fun!"
+        },
+        {
+          "id": 5,
+          "text": "Coding late into the night..."
+        }
+      ]
+    },
+    {
+      "id": "ac98",
+      "name": "j",
+      "surname": "q",
+      "age": "12",
+      "salary": "789"
+    },
+    {
+      "id": "896d",
+      "name": "ano",
+      "surname": "sano",
+      "age": "45",
+      "salary": "12"
+    }
+  ]
+}
